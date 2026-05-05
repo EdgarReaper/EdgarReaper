@@ -42,12 +42,6 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 ---
 
-## 🔭 Currently Working On
-
-Projects coming soon - check back later.
-
----
-
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarfreitas06@gmail.com)
