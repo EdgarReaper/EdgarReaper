@@ -65,7 +65,7 @@ Projects coming soon — check back later.
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EdgarReaper&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EdgarReaper&theme=tokyonight&hide_border=true)
 
 *Auto-generated via github-readme-stats · updates live on your profile*
 <!--
