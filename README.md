@@ -70,12 +70,6 @@ Projects coming soon — check back later.
 ---
 
 *Auto-generated via github-readme-stats · updates live on your profile*
-# Edgar Campos Freitas
-Welcome to my GitHub! 👋😊 I'm Edgar and I'm a student at University of Minho, where I'm getting a degree in Applied Statistics 👨‍💻.
-
-## About me 👀
-
-I was born and raised in  🇵🇹, a small village , where I currently live. I study in Guimarães @ Uminho.
 <!--
 **EdgarReaper/EdgarReaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
