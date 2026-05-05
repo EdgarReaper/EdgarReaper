@@ -44,7 +44,7 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 ## 🔭 Currently Working On
 
-Projects coming soon — check back later.
+Projects coming soon - check back later.
 
 ---
 
