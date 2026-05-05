@@ -59,8 +59,6 @@ Projects coming soon — check back later.
 
 ![Edgar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EdgarReaper&layout=compact&theme=tokyonight)
-
 ---
 <!--
 **EdgarReaper/EdgarReaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
