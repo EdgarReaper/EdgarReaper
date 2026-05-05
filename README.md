@@ -15,7 +15,10 @@ Currently studying Applied Statistics and building my analytical toolkit — fro
 
 ## 🌱 Currently Learning
 
-- **Python, R, Excel, SQL, Streamlit**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🐍 Python
 - pandas  
@@ -48,8 +51,8 @@ Projects coming soon — check back later.
 
 ## 📫 How to Reach Me
 
-- ✉ **Email:** edgarfreitas06@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/edgar-freitass](https://linkedin.com/in/edgar-freitass)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarfreitas06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-freitass)
 
 ---
 
