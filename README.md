@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I turn data into decisions. Currently studying Applied Statistics and building my analytical toolkit — from statistical models in R to interactive dashboards in Python. I care about clean data, honest analysis, and results that actually mean something.
+I turn data into decisions. Currently studying Applied Statistics and building my analytical toolkit - from statistical models in R to interactive dashboards in Python. I care about clean data, honest analysis, and results that actually mean something.
 
 ---
 
