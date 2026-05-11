@@ -57,8 +57,7 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdgarReaper&theme=tokyonight" 
-    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs&include_all_commits=true&count_private=true" 
   />
 </p>
 ---
