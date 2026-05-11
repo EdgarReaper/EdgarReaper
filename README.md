@@ -53,13 +53,6 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 ![Edgar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs&include_all_commits=true&count_private=true" 
-  />
-</p>
 ---
 <!--
 **EdgarReaper/EdgarReaper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
