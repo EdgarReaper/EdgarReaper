@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![Banner](edgar_banner.png)
 
 # Edgar Freitas 👋
 
