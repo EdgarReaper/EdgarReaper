@@ -1,6 +1,7 @@
 # Edgar Freitas 👋
 
-🎓 Applied Statistics student @ Universidade do Minho  
+🎓 Applied Statistics student @ [Universidade do Minho](https://www.uminho.pt/PT)
+
 📍 Guimarães, Portugal 🇵🇹  
 
 ---
@@ -11,34 +12,39 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+| 📊 [Interactive Statistics Apps](https://github.com/EdgarReaper/interactive-statistics-apps) | Beta distribution explorer and obesity dataset exploratory analysis | Python, Streamlit, Pandas, SciPy, NumPy, Matplotlib |
+| 🐸 [Frog Jump - Block Distance](https://github.com/EdgarReaper/block-distance) | Algorithm to find the starting block that maximises the distance between two frogs jumping in opposite directions | Python, Matplotlib |
+
+---
+
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### 🐍 Python
-- pandas  
-- numpy  
-- matplotlib  
-- scipy  
-- streamlit  
-
-### 📊 R / RStudio
-- Statistical modelling  
-- Data wrangling  
+---
 
 ### 📈 Excel
 - Pivot tables  
 - Power Query  
 - Dynamic charts  
 
-### 🗄 SQL
-- Queries  
-- Joins  
-- Aggregations  
+---
+
+## 📊 GitHub Stats
+
+![Edgar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -46,12 +52,6 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarfreitas06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-freitass)
-
----
-
-## 📊 GitHub Stats
-
-![Edgar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight)
 
 ---
 <!--
