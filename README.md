@@ -1,4 +1,7 @@
-![Banner](edgar_banner.png)
+<h1 align="center">Edgar Freitas</h1>
+<p align="center">
+  Applied Statistics · Data Analysis
+</p>
 
 ## 👨‍💻 About Me
 
