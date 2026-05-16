@@ -1,13 +1,5 @@
 ![Banner](edgar_banner.png)
 
-# Edgar Freitas 👋
-
-🎓 Applied Statistics student @ [Universidade do Minho](https://www.uminho.pt/PT)
-
-📍 Guimarães, Portugal 🇵🇹  
-
----
-
 ## 👨‍💻 About Me
 
 I turn data into decisions. Currently studying Applied Statistics and building my analytical toolkit - from statistical models in R to interactive dashboards in Python. I care about clean data, honest analysis, and results that actually mean something.
