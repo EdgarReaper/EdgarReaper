@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Edgar Freitas 👋
 
 🎓 Applied Statistics student @ [Universidade do Minho](https://www.uminho.pt/PT)
