@@ -39,12 +39,6 @@ I turn data into decisions. Currently studying Applied Statistics and building m
 
 ---
 
-## 📊 GitHub Stats
-
-![Edgar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EdgarReaper&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 How to Reach Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edgarfreitas06@gmail.com)
